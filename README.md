@@ -2,7 +2,7 @@
 1995, july
 # Welcome to my page.
 ## Resume
-### ![](<a href="http://www.mx7.com/view2/yQd6UDGGWbTmgTny" target="_blank"><img border="0" src="http://www.mx7.com/i/670/Z7Gktk.jpg" /></a>)
+### ![](http://www.mx7.com/view2/yQd6UDGGWbTmgTny" target="_blank"><img border="0" src="http://www.mx7.com/i/670/Z7Gktk.jpg)
 
   **JIRAPORN HONGJAI**    
 **Pesonal Information**  
